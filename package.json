@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18334770485/liupengjs.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18334770485/liupengjs.github.io/issues"
+  },
+  "homepage": "https://github.com/18334770485/liupengjs.github.io#readme",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.2.0",
+    "vuepress": "^1.2.0"
+  }
+}
